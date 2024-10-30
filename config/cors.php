@@ -6,7 +6,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:3000'],
+    'allowed_origins' => ['http://localhost:3000', 'https://baselog-backend-35d4c46da3f5.herokuapp.com'],
 
     'allowed_origins_patterns' => [],
 
